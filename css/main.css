@@ -1,0 +1,14 @@
+body{
+    background-color: #F7ECDE;
+}
+
+.box-info{
+    background-color: rgba(0, 0, 0, 0.668);
+}
+.circles span{
+  background-color: red;
+}
+.form-info{
+    border-bottom: 2px dotted ; 
+    border-top: 2px dotted ; 
+}
